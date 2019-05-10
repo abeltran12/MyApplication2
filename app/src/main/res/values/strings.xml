@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="EXITO">Registrarse</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="no_estas_registrado">No estás registrado?</string>
+    <string name="ya_estas_registrado">¿Ya estás registrado?</string>
+    <string name="registrar">Registrar</string>
+    <string name="jklasdjklasdjklasdjklasdjkl">EXITO</string>
+    <string name="log">Loguear</string>
+</resources>
