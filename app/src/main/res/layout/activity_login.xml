@@ -9,12 +9,18 @@
     android:gravity="center_horizontal"
     tools:context=".RegisterActivity">
 
-    <TextView
-        android:layout_width="70dp"
-        android:layout_height="35dp"
-        android:textStyle="bold"
-        android:textColor="#ffffff"
-        android:text="@string/jklasdjklasdjklasdjklasdjkl"
-        />
+    <Button
+        android:id="@+id/button_andres"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/andres"/>
+
+    <Button
+        android:id="@+id/button_daniela"
+        android:layout_width="190dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/daniela"/>
 
 </LinearLayout>
